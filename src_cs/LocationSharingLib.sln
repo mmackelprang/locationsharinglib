@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSharingLib", "LocationSharingLib\LocationSharingLib.csproj", "{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSharingLib.Tests", "LocationSharingLib.Tests\LocationSharingLib.Tests.csproj", "{BAF07DA3-CCAE-4947-9750-2DE026C790EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationSharingLib.Demo", "LocationSharingLib.Demo\LocationSharingLib.Demo.csproj", "{A384DB14-2BFD-471B-95D9-AEAEE07DD553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Debug|x64.Build.0 = Debug|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Debug|x86.Build.0 = Debug|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Release|x64.ActiveCfg = Release|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Release|x64.Build.0 = Release|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Release|x86.ActiveCfg = Release|Any CPU
+		{05FD5EBF-F5AE-4754-AD5F-ED699F3B2C3F}.Release|x86.Build.0 = Release|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Release|x64.Build.0 = Release|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{BAF07DA3-CCAE-4947-9750-2DE026C790EF}.Release|x86.Build.0 = Release|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Debug|x64.Build.0 = Debug|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Debug|x86.Build.0 = Debug|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Release|x64.ActiveCfg = Release|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Release|x64.Build.0 = Release|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Release|x86.ActiveCfg = Release|Any CPU
+		{A384DB14-2BFD-471B-95D9-AEAEE07DD553}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
